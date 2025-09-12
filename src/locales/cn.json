@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "aboutPage": "主页",
+    "snake": "贪吃蛇",
+    "tetris": "俄罗斯方块"
+  },
+  "about": {
+    "welcome": "FunZ",
+    "detail": "只是一个用 Vue 写的练手玩具",
+    "checkOut": "实现了一些经典的游戏"
+  },
+  "games": {
+    "snake": "贪吃蛇",
+    "snakeContent": "可自定义的经典贪吃蛇",
+    "maxSnakeScore": "最高分数: ",
+    "maxTetrisScore": "最高分数: ",
+    "tetris": "俄罗斯方块",
+    "tetrisContent": "经典的俄罗斯方块游戏"
+  },
+  "snake": {
+    "score": "分数: ",
+    "settingsTxt": "设置",
+    "press": "按",
+    "space": "空格",
+    "menuStart": "开始游玩，或点击",
+    "startBtn": "开始按钮",
+    "gameOverTitle": "游戏结束!",
+    "menuRestart": "重新开始，或点击",
+    "restartBtn": "重开按钮",
+    "settings": {
+      "speed": {
+        "title": "速度",
+        "low": "低 (每 200 ms 移动一次)",
+        "middle": "中 (每 150 ms 移动一次)",
+        "high": "高 (每 100 ms 移动一次)",
+        "ultraHigh": "极高 (每 50 ms 移动一次)",
+        "other": "自定义",
+        "speedVal": "速度值 (多少 ms 移动一次)"
+      },
+      "map": {
+        "title": "地图",
+        "width": "宽",
+        "height": "高"
+      },
+      "color": {
+        "title": "颜色",
+        "bgColor": "背景颜色",
+        "snakeColor": "蛇的颜色",
+        "foodColor": "食物的颜色",
+        "killedColor": "蛇死亡时头部的颜色"
+      },
+      "backBtn": "返回"
+    }
+  },
+  "tetris": {
+    "score": "分数: ",
+    "nextShape": "下一个方块",
+    "press": "按",
+    "space": "空格",
+    "menuStart": "开始游玩，或点击",
+    "startBtn": "开始按钮",
+    "gameOverTitle": "游戏结束!",
+    "menuRestart": "重新开始，或点击",
+    "restartBtn": "重开按钮"
+  }
+}

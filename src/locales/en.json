@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "aboutPage": "About Page",
+    "snake": "Snake",
+    "tetris": "Tetris"
+  },
+  "about": {
+    "welcome": "Welcome to FunZ!",
+    "detail": "This is a demo site containing various classic games.",
+    "checkOut": "Check out the following games below!"
+  },
+  "games": {
+    "snake": "Snake",
+    "snakeContent": "The classic snake game.",
+    "maxSnakeScore": "Max Score:",
+    "maxTetrisScore": "Max Score:",
+    "tetris": "Tetris",
+    "tetrisContent": "The classic tetris game."
+  },
+  "snake": {
+    "score": "Score:",
+    "settingsTxt": "Settings",
+    "press": "Press",
+    "space": "Space",
+    "menuStart": "to start or click ",
+    "startBtn": "Start",
+    "gameOverTitle": "Game Over!",
+    "menuRestart": "to restart or click ",
+    "restartBtn": "Restart",
+    "settings": {
+      "speed": {
+        "title": "Speed",
+        "low": "Low (200 ms/move)",
+        "middle": "Middle (150 ms/move)",
+        "high": "High (100 ms/move)",
+        "ultraHigh": "Ultra High (50 ms/move)",
+        "other": "Other",
+        "speedVal": "Speed value (ms/move)"
+      },
+      "map": {
+        "title": "Map",
+        "width": "Width",
+        "height": "Height"
+      },
+      "color": {
+        "title": "Color",
+        "bgColor": "Background color",
+        "snakeColor": "Snake color",
+        "foodColor": "Food color",
+        "killedColor": "Killed color (the head of the dead snake)"
+      },
+      "backBtn": "Back"
+    }
+  },
+  "tetris": {
+    "score": "Score:",
+    "nextShape": "Next Shape",
+    "press": "Press",
+    "space": "Space",
+    "menuStart": "to start or click ",
+    "startBtn": "Start",
+    "gameOverTitle": "Game Over!",
+    "menuRestart": "to restart or click ",
+    "restartBtn": "Restart"
+  }
+}
