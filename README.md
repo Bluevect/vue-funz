@@ -8,6 +8,6 @@ This is a demo site containing various classic games.
 
 # Github Pages
 
-- [English Version](bluevect.github.io/vue-funz/?lang=en)
+- [English Version](https://bluevect.github.io/vue-funz/?lang=en)
 
-- [中文版本](bluevect.github.io/vue-funz/?lang=cn)
+- [中文版本](https://bluevect.github.io/vue-funz/?lang=cn)
